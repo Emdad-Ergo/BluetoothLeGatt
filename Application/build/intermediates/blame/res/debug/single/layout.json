@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "D:\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "D:\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ble_discovering.xml",
+        "source": "D:\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\activity_ble_discovering.xml"
+    },
+    {
+        "merged": "D:\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "D:\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "D:\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_list.xml",
+        "source": "D:\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\activity_device_list.xml"
+    },
+    {
+        "merged": "D:\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\button_control.xml",
+        "source": "D:\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\button_control.xml"
+    },
+    {
+        "merged": "D:\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ble_advertising.xml",
+        "source": "D:\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\activity_ble_advertising.xml"
+    },
+    {
+        "merged": "D:\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "D:\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "D:\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "D:\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "D:\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "D:\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "D:\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bluetooth_chat.xml",
+        "source": "D:\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\fragment_bluetooth_chat.xml"
+    }
+]
